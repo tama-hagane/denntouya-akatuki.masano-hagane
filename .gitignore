@@ -1,0 +1,10 @@
+# Dependency directories
+node_modules/
+jspm_packages/
+
+# Operating System Files
+Thumbs.db
+ehthumbs.db
+Desktop.ini
+$RECYCLE.BIN/
+.DS_Store
